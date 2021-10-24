@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: Michael Weimann <mail@michael-weimann.eu>
+#
+# SPDX-License-Identifier: MIT
+
 version: 9
 jobs:
 - name: GitHub sync
