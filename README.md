@@ -4,11 +4,6 @@ SPDX-FileCopyrightText: Michael Weimann <mail@michael-weimann.eu>
 SPDX-License-Identifier: MIT
 -->
 
-> ![](https://weimann.digital/redbox.png) The actual development of this project takes place here:    
-> [https://pubcode.weimann.digital/projects/telescope-live-grep-raw.nvim](https://pubcode.weimann.digital/projects/telescope-live-grep-raw.nvim)  
-> You can easily log in with your GitHub account there.
-
-
 # Telescope live grep raw
 
 [![REUSE status](https://api.reuse.software/badge/pubcode.weimann.digital/telescope-live-grep-raw.nvim)](https://api.reuse.software/info/pubcode.weimann.digital/telescope-live-grep-raw.nvim)
@@ -33,7 +28,7 @@ Add `telescope-live-grep-raw.nvim` as `telescope.nvim` dependency, e.g.:
 use {
     'nvim-telescope/telescope.nvim',
     requires = {
-        { 'weeman1337/telescope-live-grep-raw.nvim' }
+        { 'nvim-telescope/telescope-live-grep-raw.nvim' }
     }
 }
 ```
