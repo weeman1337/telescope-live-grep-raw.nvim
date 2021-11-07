@@ -54,6 +54,8 @@ local live_grep_raw = function(opts)
   }):find()
 end
 
+vim.notify("Live grep raw has been moved to the Telescope project. Please update your configuration!")
+
 return telescope.register_extension {
   exports = { live_grep_raw = live_grep_raw },
 }
