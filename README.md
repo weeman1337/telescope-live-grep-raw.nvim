@@ -1,7 +1,7 @@
 <!--
-SPDX-FileCopyrightText: Michael Weimann <mail@michael-weimann.eu>
+SPDX-FileCopyrightText: 2021 Michael Weimann <mail@michael-weimann.eu>
 
-SPDX-License-Identifier: MIT
+SPDX-License-Identifier: CC0-1.0
 -->
 
 # Telescope live grep raw
@@ -43,6 +43,6 @@ Call or map this command
 ```
 
 
-### Acknowledgements
+## Acknowledgements
 
 Based on the idea of this [pull request](https://github.com/nvim-telescope/telescope.nvim/pull/670).
